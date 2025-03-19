@@ -2,7 +2,7 @@
 <br>
 <br>
 <br>
-<p>Esse foi meu primeiro contato com a tecnologia CSS com responsividade..</p>
+<p>Esse foi meu primeiro contato na tecnologia CSS com responsividade..</p>
 <br>
 <p>Foram utilizadas tecnologias.</p>
 <img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white />
